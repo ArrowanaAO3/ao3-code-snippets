@@ -6,7 +6,7 @@ Bookmarklets are bookmarks on your browser that run code every time you click on
 ## Main Character/Relationship Filter
 This bookmarklet will only show fics where the designated character or relationship is primary.
 
-
+![The designated character/relationship is the one displayed at the top of the page when searching for AO3 works.](designated-character-definition.png)
 
 This assumes that authors tag important characters and relationships first. Fics that are not tagged appropriately may be falsely included or excluded.
 
