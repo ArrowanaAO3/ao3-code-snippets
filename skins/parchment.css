@@ -1,0 +1,116 @@
+body,
+.region,
+.flash,
+fieldset,
+fieldset fieldset ul,
+form dl,
+textarea,
+#main .verbose legend,
+.verbose fieldset,
+.notice,
+ul.notes,
+input,
+textarea,
+table,
+th,
+td:hover,
+tr:hover,
+.symbol .question:hover,
+#modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.comment_error,
+.kudos_error,
+div.dynamic,
+.dynamic form,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #dfc6a4;
+  color: #000;
+  border-color: #222;
+  outline: #111;
+  box-shadow: none;
+}
+
+.group.listbox .index {
+  background: #dfc6a4;
+}
+
+#outer,
+.javascript,
+.statistics .index li:nth-of-type(even),
+#tos_prompt,
+.announcement input[type="submit"] {
+  background: #dfc6a4;
+}
+
+.actions a,
+.actions a:link,
+.actions input,
+.action,
+.action:link,
+input[type="submit"],
+button,
+.current,
+.actions label {
+  background: #f8ddb9;
+  border-color: #aaa;
+  text-shadow: none;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
+.group.listbox,
+fieldset fieldset.listbox,
+form blockquote.userstuff,
+textarea:focus,
+li.relationships a,
+.dashboard fieldset fieldset.listbox .index,
+#dashboard a:hover,
+th,
+#dashboard .secondary,
+.secondary,
+.thread .even,
+.system .tweet_list li,
+.ui-datepicker tr:hover {
+  background: #bea37f;
+}
+
+.actions a:hover,
+.actions input:hover,
+#dashboard a:hover,
+.actions a:focus,
+.actions input:focus,
+#dashboard a:focus {
+  border-color: #bea37f;
+  box-shadow: inset 1px 1px 1px #555;
+}
+
+#header ul.primary,
+#outer #footer,
+.toggled form {
+  background: #906934;
+}
+
+#dashboard,
+#dashboard.own {
+  background: none;
+  border-color: #906934;
+}
+
+#outer .group .heading,
+#header .actions a,
+#footer .secondary a,
+fieldset.listbox .heading,
+.userstuff .heading,
+.heading,
+.userstuff h2 {
+  text-shadow: none;
+  background: none;
+}
